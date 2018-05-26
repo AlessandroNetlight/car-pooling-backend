@@ -1,0 +1,10 @@
+# dev dependencies
+flake8
+isort
+pip-tools
+pytest
+
+# internal dependencies
+
+# external dependencies
+flask
