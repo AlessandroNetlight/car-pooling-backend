@@ -1,5 +1,5 @@
 # Car-pooling-backend
-Back office for keeping track of who has driven most among friends.
+Back office for keeping track of who has driven most among friends. 
 
 ## To initialize
 $ virtualenv venv -p python3
